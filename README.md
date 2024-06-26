@@ -9,7 +9,7 @@ Used the dataset to answer the following questions:
 3. How has the source of information (call source) changed over time?
 
 ## Additional Considerations: 
-- The dataset contains unnecessary information, so filtering and selection of relevant data points are crucial so I have provided thorough explanations and summaries in my tables and captions.
+- The dataset contains unnecessary information, so filtering and selection of relevant data points are crucial so I have provided thorough explanations and summaries in my python code and detailed PDF report.
 ## Project Overview
 This project was conducted using Google Colab, an online platform for Jupyter notebooks that offers free GPU and TPU resources, making it ideal for data-intensive tasks and machine learning experiments.
 ## Project Steps:
