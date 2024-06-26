@@ -10,7 +10,8 @@ Used the dataset to answer the following questions:
 
 ## Additional Considerations: 
 - The dataset contains unnecessary information, so filtering and selection of relevant data points are crucial so I have provided thorough explanations and summaries in my tables and captions.
-
+## Project Overview
+This project was conducted using Google Colab, an online platform for Jupyter notebooks that offers free GPU and TPU resources, making it ideal for data-intensive tasks and machine learning experiments.
 ## Project Steps:
 1. **Subset Relevant Columns:**
    - Choose columns necessary for answering the dataset questions: 'Date and Time of initial call', 'Animal Class', 'Call Source', and '# of Animals'.
