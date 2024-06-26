@@ -38,3 +38,5 @@ This project was conducted using Google Colab, an online platform for Jupyter no
    - Publication Table: Formatted with a caption following text and format considerations.
    - Importable Table: Includes only necessary columns ready to be imported into a Python Notebook.
 2. Prepare final pdf report with publication table, importale table and python code snippet.
+
+Note:  Raw data folder contains messy dataset to be analysed and also have data description file. The solutions folder contains python code and pdf report that answers all the three questions.
