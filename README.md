@@ -21,14 +21,16 @@ This project was conducted using Google Colab, an online platform for Jupyter no
    - Handle Missing Values: Drop rows with missing values in the '# of Animals' column since they are minimal relative to the dataset size.
 3. **Data Transformation:**
    - Add Year Column: Create a new column 'Report_Year' by extracting the year from the 'Date and Time of initial call' column. This facilitates annual trend analysis.
-4. **Store Filtered Dataframe in Excel:**
+4. **Data visualization:**
+   - Perform data visualization for each question to understand the trend over time effectively.
+5. **Store Filtered Dataframe in Excel:**
    - Create a subset of the cleaned dataset containing only the columns 'Report_Year', '# of Animals', 'Animal Class', and 'Call Source'. This subset will serve as the importable table for further analysis in Python.
    - Save the filtered dataframe to a new Excel file named "Pooja_Output_File.xlsx" with a sheet named "Importable Table".
-5. **Read and Inspect the "Importable Table" Dataset:**
+6. **Read and Inspect the "Importable Table" Dataset:**
    - Load the "Importable Table" dataset from the Excel file and inspect its structure and contents to ensure data was correctly saved.
-6. **Perform Grouping and Aggregation:**
+7. **Perform Grouping and Aggregation:**
    - Use pandas to group and aggregate data to answer the specific three questions related to the dataset.
-7. **Develop Publication Table:**
+8. **Develop Publication Table:**
    - Create a publication-ready table that adheres to table anatomy guidelines and clearly presents the findings related to the three specific questions posed by the dataset.
 
 ## Expected Output:
